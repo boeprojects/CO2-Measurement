@@ -42,7 +42,7 @@ Appropriate libraries for your CO2 sensor module `Adafruit_CCS811`
 
 ## Installation
 
-[picture of setup]
+![Build](Build.png)
 
 ## Usage
 
