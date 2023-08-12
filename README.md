@@ -54,9 +54,9 @@ If the CO2 levels exceed the predefined threshold, the red LED warning indicator
 
 | ppm | signal | classifcation |
 |-----|--------|---------------|
-| <800| green  | high air quality |
+| < 800| green  | high air quality |
 | 800-1000 | blue | normal air quality |
-| >1000 | red | critical air quality |
+| > 1000 | red | critical air quality |
 
 Monitor the CO2 levels and take appropriate actions to improve indoor air quality (e.g., ventilation, reducing sources of CO2 emission).
 
